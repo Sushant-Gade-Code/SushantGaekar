@@ -1,15 +1,15 @@
-<h1 align="center">Hey 👋, I'm Maroti Shelke</h1>
+<h1 align="center">Hey 👋, I'm Sushant Gadekar</h1>
 <h3 align="center">A passionate data scientist from India with 3 years of experience, specializing in machine learning and data analysis.</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Marotishelke/Marotishelke/blob/main/Images/coder.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/Sushant-Gade-Code/SushantGaekar/Images/coder.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marotishelke&label=Profile%20views&color=0e75b6&style=flat" alt="marotishelke" /> </p>
 
-- 🔭 I’m currently working on [Student Performance Predictor](https://github.com/Marotishelke/ml-project)
+- 🔭 I’m currently working on [Student Performance Predictor](https://github.com/Sushant-Gade-Code/ml-project)
 
 - 🌱 I’m currently learning **Azure DP-100 course**
 
-- 📫 How to reach me **marotishelke2000@gmail.com**
+- 📫 How to reach me *sushantgdekar@gmail.com**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
